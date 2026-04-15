@@ -1,2 +1,2 @@
 # AtCoder
-AtCoder 문제풀이 아카이브 
+AtCoder 문제풀이 아카이브 (C++)
